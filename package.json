@@ -4,8 +4,8 @@
   "private": true,
   "devDependencies": {
     "node-sass": "^4.7.2",
-    "react-scripts": "^1.0.2",
-    "sass-loader": "^6.0.6"
+    "react-scripts": "^5.0.1",
+    "sass-loader": "^13.2.0"
   },
   "dependencies": {
     "breakpoint-sass": "^2.7.1",
